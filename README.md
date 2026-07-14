@@ -1,4 +1,4 @@
-# 🌍 Automated Land Surface Temperature (LST) Mapping using Google Earth Engine & Python
+# 🌍 Automated Land Surface Temperature (LST), Lansat and Sentinel2 Mapping using Google Earth Engine & Python
 
 An automated Python tool built with **Google Earth Engine (GEE)** and **Geemap** to dynamically compute and visualize monthly Land Surface Temperature (LST) over Sumatra, Indonesia. 
 
